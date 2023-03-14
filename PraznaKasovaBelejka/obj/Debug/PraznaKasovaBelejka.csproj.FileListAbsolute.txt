@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\bin\Debug\PraznaKasovaBelejka.exe.config
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\bin\Debug\PraznaKasovaBelejka.exe
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\bin\Debug\PraznaKasovaBelejka.pdb
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\obj\Debug\PraznaKasovaBelejka.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\obj\Debug\PraznaKasovaBelejka.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\obj\Debug\PraznaKasovaBelejka.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\obj\Debug\PraznaKasovaBelejka.exe
+C:\9Д\ZadachiSMetodi\PraznaKasovaBelejka\obj\Debug\PraznaKasovaBelejka.pdb

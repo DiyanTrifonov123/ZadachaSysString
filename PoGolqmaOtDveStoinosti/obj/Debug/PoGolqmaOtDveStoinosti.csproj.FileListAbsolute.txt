@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\bin\Debug\PoGolqmaOtDveStoinosti.exe.config
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\bin\Debug\PoGolqmaOtDveStoinosti.exe
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\bin\Debug\PoGolqmaOtDveStoinosti.pdb
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\obj\Debug\PoGolqmaOtDveStoinosti.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\obj\Debug\PoGolqmaOtDveStoinosti.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\obj\Debug\PoGolqmaOtDveStoinosti.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\obj\Debug\PoGolqmaOtDveStoinosti.exe
+C:\9Д\ZadachiSMetodi\PoGolqmaOtDveStoinosti\obj\Debug\PoGolqmaOtDveStoinosti.pdb

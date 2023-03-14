@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\bin\Debug\KonvertorZaTemperaturi.exe.config
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\bin\Debug\KonvertorZaTemperaturi.exe
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\bin\Debug\KonvertorZaTemperaturi.pdb
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\obj\Debug\KonvertorZaTemperaturi.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\obj\Debug\KonvertorZaTemperaturi.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\obj\Debug\KonvertorZaTemperaturi.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\obj\Debug\KonvertorZaTemperaturi.exe
+C:\9Д\ZadachiSMetodi\KonvertorZaTemperaturi\obj\Debug\KonvertorZaTemperaturi.pdb

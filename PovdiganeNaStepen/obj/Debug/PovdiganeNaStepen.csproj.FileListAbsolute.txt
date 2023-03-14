@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\bin\Debug\PovdiganeNaStepen.exe.config
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\bin\Debug\PovdiganeNaStepen.exe
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\bin\Debug\PovdiganeNaStepen.pdb
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\obj\Debug\PovdiganeNaStepen.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\obj\Debug\PovdiganeNaStepen.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\obj\Debug\PovdiganeNaStepen.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\obj\Debug\PovdiganeNaStepen.exe
+C:\9Д\ZadachiSMetodi\PovdiganeNaStepen\obj\Debug\PovdiganeNaStepen.pdb

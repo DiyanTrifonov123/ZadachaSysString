@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\bin\Debug\ZnakNaCyaloChislo.exe.config
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\bin\Debug\ZnakNaCyaloChislo.exe
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\bin\Debug\ZnakNaCyaloChislo.pdb
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\obj\Debug\ZnakNaCyaloChislo.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\obj\Debug\ZnakNaCyaloChislo.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\obj\Debug\ZnakNaCyaloChislo.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\obj\Debug\ZnakNaCyaloChislo.exe
+C:\9Д\ZadachiSMetodi\ZnakNaCyaloChislo\obj\Debug\ZnakNaCyaloChislo.pdb

@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\bin\Debug\LiceNaTriugulnik.exe.config
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\bin\Debug\LiceNaTriugulnik.exe
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\bin\Debug\LiceNaTriugulnik.pdb
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\obj\Debug\LiceNaTriugulnik.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\obj\Debug\LiceNaTriugulnik.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\obj\Debug\LiceNaTriugulnik.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\obj\Debug\LiceNaTriugulnik.exe
+C:\9Д\ZadachiSMetodi\LiceNaTriugulnik\obj\Debug\LiceNaTriugulnik.pdb
