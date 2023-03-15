@@ -22,6 +22,7 @@ namespace PraznaKasovaBelejka
 
         private static void PrintReceiptFooter()
         {
+            Console.WriteLine("---------------------------------------");
             Console.WriteLine("\u00A9 SoftUni");
         }
 
