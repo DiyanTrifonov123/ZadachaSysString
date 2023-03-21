@@ -1,0 +1,8 @@
+C:\9Д\ZadachiSMetodi\StringZadacha\bin\Debug\StringZadacha.exe.config
+C:\9Д\ZadachiSMetodi\StringZadacha\bin\Debug\StringZadacha.exe
+C:\9Д\ZadachiSMetodi\StringZadacha\bin\Debug\StringZadacha.pdb
+C:\9Д\ZadachiSMetodi\StringZadacha\obj\Debug\StringZadacha.csproj.AssemblyReference.cache
+C:\9Д\ZadachiSMetodi\StringZadacha\obj\Debug\StringZadacha.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachiSMetodi\StringZadacha\obj\Debug\StringZadacha.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachiSMetodi\StringZadacha\obj\Debug\StringZadacha.exe
+C:\9Д\ZadachiSMetodi\StringZadacha\obj\Debug\StringZadacha.pdb
